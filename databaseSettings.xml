@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings">
+<<<<<<< HEAD
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
@@ -10,6 +11,8 @@
         <parameter-pattern value="#(\w+)#" scope="XML" />
       </parameter-patterns>
     </text-mode>
+=======
+>>>>>>> 2f7f4ad62cf8328ef9e1afcd3b40ffe89dce4be5
     <csv-formats>
       <csv-format name="Tab Separated Values (TSV)">
         <data>

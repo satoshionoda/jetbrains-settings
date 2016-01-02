@@ -1,4 +1,5 @@
 <application>
+<<<<<<< HEAD
   <component name="AppInspectionProfilesVisibleTreeState">
     <entry key="Default">
       <profile-state>
@@ -27,6 +28,8 @@
   <component name="AppserversManager">
     <LibraryTable />
   </component>
+=======
+>>>>>>> 2f7f4ad62cf8328ef9e1afcd3b40ffe89dce4be5
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -55,6 +58,13 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
+<<<<<<< HEAD
+=======
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+>>>>>>> 2f7f4ad62cf8328ef9e1afcd3b40ffe89dce4be5
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -75,6 +85,7 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
+<<<<<<< HEAD
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -133,5 +144,18 @@
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
+=======
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+>>>>>>> 2f7f4ad62cf8328ef9e1afcd3b40ffe89dce4be5
   </component>
 </application>

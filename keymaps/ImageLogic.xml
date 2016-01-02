@@ -1,0 +1,5 @@
+<keymap version="1" name="ImageLogic" parent="Mac OS X">
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+</keymap>

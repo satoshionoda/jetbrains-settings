@@ -19,6 +19,9 @@
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,article,form,fieldset,footer" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
+  <ECMA4CodeStyleSettings>
+    <option name="INDENT_PACKAGE_CHILDREN" value="1" />
+  </ECMA4CodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>

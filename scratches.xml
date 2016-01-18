@@ -1,8 +1,0 @@
-<application>
-  <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Jade" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Jade" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="LESS" />
-  </component>
-</application>

@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Jade" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="TEXT" />
@@ -9,5 +10,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Jade" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="TEXT" />
   </component>
 </application>

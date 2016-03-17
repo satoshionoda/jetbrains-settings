@@ -1,5 +1,7 @@
 <templateSet group="_imageLogic PHP">
-  <template name="l" value="flog($END$);" description="flog" toReformat="false" toShortenFQNames="true">
-    <context />
+  <template name="l" value="ChromePhp::log($END$);" description="flog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>

@@ -1,1 +1,8 @@
-<code_scheme name="sd" />
+<code_scheme name="sd">
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>

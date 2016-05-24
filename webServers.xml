@@ -6,6 +6,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="d6b6afba-2bd2-45fb-b0a4-b40a5e023ae3" name="transparent specimens DEV" url="http://th.imagelogic.info">
@@ -13,6 +14,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="21c8b645-5555-4f37-8a59-328fc3aabc1f" name="UTD DEV" url="http://utd.imagelogic.info">
@@ -20,6 +22,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="39d410e0-f6fd-4c91-93e1-d6fabf8c8f8b" name="UTD LIVE" url="http://under-the-dog.com">
@@ -27,6 +30,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9e6f6d80-9ad5-4048-82f0-e260552946b8" name="CIA LIVE" url="http://ciaonline.jp">
@@ -34,16 +38,18 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="c646e6a1-8ba0-412b-a9e9-4d88c9238733" name="whitebook local" url="http://whitebook.localhost">
-        <fileTransfer accessType="LOCAL" />
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="ad9034b0-7a64-4c26-95b1-270c9796899d" name="PS Solutions Test" url="http://bascule.imagelogic.info">
         <fileTransfer host="s123210.gridserver.com" port="21" password="dfe2df93dfefdfdfdf9edfc8dffddf96dfdcdffddf96dffd" username="imagelogic.info">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="b08e1d4a-f98d-48b3-9116-71a04d199e18" name="UTD Forum Local" url="http://forum.utd.localhost">
@@ -60,6 +66,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="079a012e-ef53-4cf6-95ec-d6dc68bb50ee" name="UTD API STAGING" url="http://api.backers.utd.imagelogic.info">
@@ -67,6 +74,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="91de4414-144f-4f19-8280-1fe120f0da27" name="UTD Production Backer System" url="http://backers.under-the-dog.com">
@@ -74,6 +82,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="3a1b25f2-00e9-44d3-b339-0b71e1aa0410" name="UTD Forum Production" url="http://community.under-the-dog.com">
@@ -81,6 +90,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="527994ee-f1b7-433d-b10e-6892d835def2" name="UTD Forum Developing" url="http://forum.utd.imagelogic.info">
@@ -88,6 +98,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="522af955-1870-44ec-8b18-3b6e0be30db2" name="UTD API Production" url="http://api.backers.under-the-dog.com">
@@ -95,6 +106,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="46bd104c-5a9a-42ec-8dbb-9c1ef148481b" name="OZV" url="http://www.oz-vision.co.jp">
@@ -102,6 +114,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>

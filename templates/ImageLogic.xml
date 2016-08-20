@@ -1,5 +1,5 @@
 <templateSet group="ImageLogic">
-  <template name="l" value="console.log($END$);" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="l" value="console.log($END$);" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />

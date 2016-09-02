@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c668cd3f-4622-4936-aa93-844d11fd86de" name="Taikotataki LIVE" url="http://taikotatakinoyume.com">
-        <fileTransfer host="s123210.gridserver.com" port="21" rootFolder="/domains/taikotatakinoyume.com/html" password="dfe2df93dfefdfdfdf9edfc8dffddf96dfdcdffddf96dffd" username="imagelogic.info">
+        <fileTransfer host="s123210.gridserver.com" port="21" rootFolder="/domains/taikotatakinoyume.com/html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d6b6afba-2bd2-45fb-b0a4-b40a5e023ae3" name="transparent specimens DEV" url="http://th.imagelogic.info">
-        <fileTransfer host="s123210.gridserver.com" port="21" password="dfe2df93dfefdfdfdf9edfc8dffddf96dfdcdffddf96dffd" username="imagelogic.info">
+        <fileTransfer host="s123210.gridserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="21c8b645-5555-4f37-8a59-328fc3aabc1f" name="UTD DEV" url="http://utd.imagelogic.info">
-        <fileTransfer host="s123210.gridserver.com" port="21" password="dfe2df93dfefdfdfdf9edfc8dffddf96dfdcdffddf96dffd" username="imagelogic.info">
+        <fileTransfer host="s123210.gridserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="39d410e0-f6fd-4c91-93e1-d6fabf8c8f8b" name="UTD LIVE" url="http://under-the-dog.com">
-        <fileTransfer host="under-the-dog.com" port="21" rootFolder="/html" password="df82dfe9df9ddfe9dfd8dfdedfccdfccdfefdff3dfe9df99df97df9edfdadfcb" username="ftp@under-the-dog.com">
+        <fileTransfer host="under-the-dog.com" port="21" rootFolder="/html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -34,7 +34,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9e6f6d80-9ad5-4048-82f0-e260552946b8" name="CIA LIVE" url="http://ciaonline.jp">
-        <fileTransfer host="ciaonline.jp" port="21" rootFolder="/html" password="df9cdfc7dff3dff7dffddfcedfffdf93dfebdfdcdfebdf80dfcedf92dfccdfce" username="ftp@ciaonline.jp">
+        <fileTransfer host="ciaonline.jp" port="21" rootFolder="/html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -45,7 +45,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="ad9034b0-7a64-4c26-95b1-270c9796899d" name="PS Solutions Test" url="http://bascule.imagelogic.info">
-        <fileTransfer host="s123210.gridserver.com" port="21" password="dfe2df93dfefdfdfdf9edfc8dffddf96dfdcdffddf96dffd" username="imagelogic.info">
+        <fileTransfer host="s123210.gridserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -62,7 +62,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="c1f314f2-c800-45d1-a7ee-c52897d0348e" name="UTD Staging Backer System " url="http://backers.utd.imagelogic.info">
-        <fileTransfer host="backers.utd.imagelogic.info" port="21" password="dffedfdedf89dfc0dfdddfdedfd3df92dfc1df99dfecdffadfeddff2dff1df9c" username="ftp@backers.utd.imagelogic.info">
+        <fileTransfer host="backers.utd.imagelogic.info" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -70,7 +70,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="079a012e-ef53-4cf6-95ec-d6dc68bb50ee" name="UTD API STAGING" url="http://api.backers.utd.imagelogic.info">
-        <fileTransfer host="api.backers.utd.imagelogic.info" port="21" password="df82df98dfffdfdedf8cdfc1df9cdfdadfe4dfe2df98dfffdfccdff0dfdddfde" username="ftp@api.backers.utd.imagelogic.info">
+        <fileTransfer host="api.backers.utd.imagelogic.info" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -78,7 +78,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="91de4414-144f-4f19-8280-1fe120f0da27" name="UTD Production Backer System" url="http://backers.under-the-dog.com">
-        <fileTransfer host="backers.under-the-dog.com" port="21" password="dfc8dfdedff4dfcfdf81df98dfdddff2dfc3df9cdfcfdfdfdfe4dffadffbdf98" username="ftp@backers.under-the-dog.com">
+        <fileTransfer host="backers.under-the-dog.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -86,7 +86,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3a1b25f2-00e9-44d3-b339-0b71e1aa0410" name="UTD Forum Production" url="http://community.under-the-dog.com">
-        <fileTransfer host="community.under-the-dog.com" port="21" password="dfdddfe8df9cdffadfe6df84dfdedfe7df98df99dfdbdf91dfc2dfebdff2dfef" username="ftp@community.under-the-dog.com">
+        <fileTransfer host="community.under-the-dog.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -94,7 +94,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="527994ee-f1b7-433d-b10e-6892d835def2" name="UTD Forum Developing" url="http://forum.utd.imagelogic.info">
-        <fileTransfer host="forum.utd.imagelogic.info" port="21" password="dfd0dfe9df93dff1dff0dfc4df9edfd0dfdedfc9dfeadfd8dff0dfeddf93dfe8" username="ftp@forum.utd.imagelogic.info">
+        <fileTransfer host="forum.utd.imagelogic.info" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -102,7 +102,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="522af955-1870-44ec-8b18-3b6e0be30db2" name="UTD API Production" url="http://api.backers.under-the-dog.com">
-        <fileTransfer host="api.backers.under-the-dog.com" port="21" password="df99dfe4dffedfd8dffbdfd3dfd0dfcddfc5dfc1df93dfecdf83df8edf98dfdb" username="ftp@api.backers.under-the-dog.com">
+        <fileTransfer host="api.backers.under-the-dog.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -110,7 +110,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="46bd104c-5a9a-42ec-8dbb-9c1ef148481b" name="OZV" url="http://www.oz-vision.co.jp">
-        <fileTransfer host="www.oz-vision.co.jp" port="21" username="ozpvision">
+        <fileTransfer host="www.oz-vision.co.jp" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -118,5 +118,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>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</data>
   </component>
 </application>

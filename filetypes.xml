@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".ftppass" type="JSON" />
-      <mapping ext="pug" type="Jade" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tsgrunt _tsdev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

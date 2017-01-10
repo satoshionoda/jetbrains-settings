@@ -1,7 +1,5 @@
 <templateSet group="Zen CSS">
   <template name="z" value="z-index:$END$;" description="z-index:...;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>

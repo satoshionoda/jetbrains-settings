@@ -17,7 +17,8 @@
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article,figure" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />

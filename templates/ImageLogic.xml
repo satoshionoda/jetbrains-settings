@@ -5,4 +5,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="end" value="&lt;!-- END $END$ --&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

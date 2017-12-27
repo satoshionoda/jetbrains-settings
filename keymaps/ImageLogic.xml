@@ -2,6 +2,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -53,6 +56,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoClass" />
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
@@ -77,10 +83,10 @@
   </action>
   <action id="NextOccurence" />
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift meta alt right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift meta alt left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="PreviousOccurence" />
   <action id="PublishGroup.Upload">

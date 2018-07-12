@@ -6,12 +6,4 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Han Code JP" />
-  <attributes>
-    <option name="TS.STATIC_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-  </attributes>
 </scheme>

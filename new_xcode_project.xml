@@ -1,0 +1,11 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Desktop" />
+    <string key="organizationName" value="___FULLUSERNAME___" />
+    <string key="languageChoice" value="Swift" />
+    <string key="bundleIdentifierPrefix" value="a" />
+    <boolean key="hasUnitTests" value="true" />
+    <string key="contentType" value="SceneKit" />
+    <boolean key="hasUITests" value="true" />
+  </component>
+</application>

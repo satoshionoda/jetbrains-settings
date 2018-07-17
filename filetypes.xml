@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".ftppass" type="JSON" />
-      <mapping ext="tsgrunt _tsdev" type="PLAIN_TEXT" />
-      <mapping ext="sdef" type="XML" />
-    </extensionMap>
-  </component>
-</application>

@@ -1,14 +1,7 @@
-<code_scheme name="ImageLogic">
+<code_scheme name="ImageLogic" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
@@ -20,6 +13,17 @@
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article,figure" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article,figure" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+    <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
@@ -49,9 +53,9 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="mm" header="h" />
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="mm" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
   <PHPCodeStyleSettings>
@@ -166,7 +170,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Swift">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>

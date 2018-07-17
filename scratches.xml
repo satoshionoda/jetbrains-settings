@@ -1,0 +1,47 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" value="CSS" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.jade" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" value="TypeScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jade" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.ts" value="TypeScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Jade" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<templateSet group="_imageLogic PHP">
+  <template name="l" value="flog($END$);" description="flog" toReformat="false" toShortenFQNames="true" />
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

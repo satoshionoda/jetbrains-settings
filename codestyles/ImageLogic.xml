@@ -1,0 +1,188 @@
+<code_scheme name="ImageLogic" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article,figure" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,div,section,p,ul,li,head,nav,header,form,fieldset,footer,main,article,figure" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+    <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,li" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <Objective-C-extensions>
+    <file>
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="ClassPredef" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Class" />
+    </file>
+    <class>
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+    </class>
+    <extensions>
+      <pair source="mm" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
+    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
+  </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ECMA Script Level 4">
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Jade">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
+    <option name="PARENTHESES_EXPRESSION_RPAREN_WRAP" value="true" />
+    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Swift">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

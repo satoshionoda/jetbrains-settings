@@ -25,4 +25,5 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
 </application>

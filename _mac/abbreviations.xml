@@ -34,12 +34,15 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
+      <action id="com.wallaby.javascript.actions.ShowLineUncoveredRangesAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
       <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.ShowLineUncoveredRangesAction">
-        <abbreviation name="w" />
+      <action id="com.wallaby.javascript.actions.CopyValueAction">
         <abbreviation name="wallaby" />
       </action>
     </abbreviations>

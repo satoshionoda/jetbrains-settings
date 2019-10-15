@@ -141,4 +141,7 @@
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
+  <action id="opennInNewSplittedTab">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
 </keymap>

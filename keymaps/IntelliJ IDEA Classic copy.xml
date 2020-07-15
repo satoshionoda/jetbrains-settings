@@ -1,0 +1,121 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ShowSearchHistory" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta alt minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta alt back_slash" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="Uml.ShowDiff" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
